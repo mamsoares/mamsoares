@@ -15,8 +15,10 @@ I'm Full Stack Developer.
 ---
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="400px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=mamsoares&show_icons=true&theme=dracula&count_private=true" />
-  <img width="400px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=html,css" />
+   <img width="400px" align="left" alt="1" src="https://github-readme-stats-mamsoares.vercel.app
+/api?username=mamsoares&show_icons=true&theme=dracula&count_private=true" />
+  <img width="400px" align="left" alt="2" src="https://github-readme-stats-mamsoares.vercel.app
+/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=html,css" />
 </div>
 
 
