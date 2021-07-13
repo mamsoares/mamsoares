@@ -4,7 +4,7 @@
 
 <h2>I'm Marcelo Soares!</h2>
 
-My name is Marcelo Soares. I'm a Full Stack Developer and I'm from Rio de Janeiro / Brazil (🇧🇷).
+I'm a Full Stack Developer and I'm from Rio de Janeiro / Brazil (🇧🇷).
 
 Would you like to find me?
 
