@@ -2,11 +2,14 @@
 
 <!-- <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h1> -->
 
-<h2>I'm <strong>Marcelo Soares!</strong></h2>
+<h2>I'm Marcelo Soares!</h2>
 
-I'm Full Stack Developer.
+My name is Marcelo Soares. I'm a Full Stack Developer and I'm from Rio de Janeiro / Brazil (🇧🇷).
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mamsoares/)](https://www.linkedin.com/in/mamsoares/) [![Rocketseat Badge](https://img.shields.io/badge/-Marcelo%20Soares-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/marcelo-soares)](https://app.rocketseat.com.br/me/marcelo-soares)
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mamsoares/)](https://www.linkedin.com/in/mamsoares/) 
+[![Rocketseat Badge](https://img.shields.io/badge/-Marcelo%20Soares-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/marcelo-soares)](https://app.rocketseat.com.br/me/marcelo-soares)
 
 <!-- 
 [![Gmail Badge](https://img.shields.io/badge/-mamsoares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mamsoares@gmail.com)](mailto:mamsoares@gmail.com)
