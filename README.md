@@ -99,7 +99,10 @@ If I will describe about my stacks i'll talk about:
  -->
   <img width="400px" align="left" alt="" src="https://github-readme-stats-mamsoares.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=html,css" />
 </div>
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamsoares&theme=dracula)
 
+-->
 
 
 
