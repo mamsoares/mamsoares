@@ -2,33 +2,36 @@
 
 <!-- <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h1> -->
 
-<h2>I'm Marcelo Soares!</h2>
+<h2>I'm Marcelo Soares</h2>
 
 I'm a Full Stack Developer and I'm from Rio de Janeiro / Brazil (🇧🇷).
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mamsoares/)](https://www.linkedin.com/in/mamsoares/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mamsoares/)](https://www.linkedin.com/in/mamsoares/)
 [![Rocketseat Badge](https://img.shields.io/badge/-Marcelo%20Soares-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/marcelo-soares)](https://app.rocketseat.com.br/me/marcelo-soares)
 
-<!-- 
+<!--
 [![Gmail Badge](https://img.shields.io/badge/-mamsoares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mamsoares@gmail.com)](mailto:mamsoares@gmail.com)
  -->
 
 ---
 
-If I will describe about my stacks i'll talk about: 
+If I will describe about my stacks i'll talk about:
+
 <!--ts-->
- * ⚡ Developing Web Applications with Ruby on Rails
- * ⚡ Developing Web Applications with PHP
- * ⚡ Developing Web Applications with ReactJs / NextJs
- * ⚡ Developing Mobile Applications with React Native
- * ⚡ Developing Mobile Applications with Ionic
- * ⚡ Developing API Rest with Node JS
- * ⚡ Developing API Rest with PHP / Laravel
- * ⚡ Developing API Rest with Ruby on Rails
+
+- ⚡ Developing Web Applications with Ruby on Rails
+- ⚡ Developing Web Applications with PHP
+- ⚡ Developing Web Applications with ReactJs / NextJs
+- ⚡ Developing Mobile Applications with React Native
+- ⚡ Developing Mobile Applications with Ionic
+- ⚡ Developing API Rest with Node JS
+- ⚡ Developing API Rest with PHP / Laravel
+- ⚡ Developing API Rest with Ruby on Rails
 
 ## Frontend & Design
+
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,6 +44,7 @@ If I will describe about my stacks i'll talk about:
 </div>
 
 ## Framework
+
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  <img src="https://img.shields.io/badge/ruby on rail-8d2220?&style=for-the-badge&logo=rubyonrails&logoColor=white"/>
  <img src="https://img.shields.io/badge/-laravel-7377ad?&style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -48,22 +52,23 @@ If I will describe about my stacks i'll talk about:
  <img src="https://img.shields.io/badge/-bootstrap-533b78?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-
 ## Mobile
+
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  <img src="https://img.shields.io/badge/-react native-blue?&style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/-ionic-2f7df7?&style=for-the-badge&logo=ionic&logoColor=white"/>
 </div>
 
 ## Backend
+
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  <img src="https://img.shields.io/badge/node.js%20-%23239120.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/-php-7377ad?&style=for-the-badge&logo=php&logoColor=white"/>
  <img src="https://img.shields.io/badge/ruby%20-8d2220?&style=for-the-badge&logo=ruby&logoColor=white"/>
 </div>
 
-
 ## Database
+
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  <img alt="PostgreSql" src ="https://img.shields.io/badge/postgresql-%2307405e.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img alt="MySql" src ="https://img.shields.io/badge/mysql-da6936?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -80,6 +85,7 @@ If I will describe about my stacks i'll talk about:
  -->
 
 ## Devops, Cloud & Others
+
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  <!-- <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/-AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -90,7 +96,6 @@ If I will describe about my stacks i'll talk about:
  <!-- <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> -->
 </div>
 
- 
 ---
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
@@ -103,8 +108,6 @@ If I will describe about my stacks i'll talk about:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamsoares&theme=dracula)
 
 -->
-
-
 
 <!--
 **mamsoares/mamsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
