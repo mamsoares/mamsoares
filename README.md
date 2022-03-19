@@ -99,9 +99,9 @@ If I will describe about my stacks i'll talk about:
 ---
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
- <!--
+ 
    <img width="400px" align="left" alt="1" src="https://github-readme-stats-mamsoares.vercel.app/api?username=mamsoares&show_icons=true&theme=dracula&count_private=true" />
- -->
+ 
   <img width="400px" align="left" alt="" src="https://github-readme-stats-mamsoares.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=html,css" />
 </div>
 <!--
