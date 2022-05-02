@@ -104,9 +104,11 @@ If I will describe about my stacks i'll talk about:
  
   <img width="400px" align="left" alt="" src="https://github-readme-stats-mamsoares.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=html,css" />
 </div>
+
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamsoares&theme=dracula)
 
+<a href="https://app.daily.dev/mamsoares"><img src="https://api.daily.dev/devcards/2d30879c2bfc4c25aabac4946d9fa423.png?r=8xv" width="150" alt="Marcelo Soares's Dev Card"/></a>
 -->
 
 <!--
