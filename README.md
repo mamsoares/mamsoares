@@ -1,34 +1,78 @@
-<!-- # Hi there 👋 -->
+# Hi there 👋
+
+<div align="left">
+  <!--
+  <a href="https://twitter.com/mamsoares1969">
+    <img
+      src="https://img.shields.io/twitter/follow/mamsoares1969?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  -->
+  
+  <a href="https://www.linkedin.com/in/mamsoares/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Marcelo%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mamsoares/"
+      alt="LinkedIn"
+    />
+  </a>
+  
+  <a href="mailto:mamsoares@gmail.com" alt="Gmail">
+    <img 
+      src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mamsoares@gmail.com" />   </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5521997824222" alt="WhatsApp" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=5521997824222"/>         
+  </a>
+
+  <a href="https://api.daily.dev/get?r=mamsoares" target="_blank">
+    <img
+      width="330"
+      align="right"
+      src="https://api.daily.dev/devcards/2d30879c2bfc4c25aabac4946d9fa423.png?r=sjc"
+    />
+  </a>
+</div>
+
+## I'm Marcelo Soares
+
+- I'm a Full Stack and Mobile Developer.
+- I live in Rio de Janeiro from Brazil (🇧🇷).
+
 
 <!-- <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h1> -->
 
+<!--
 <h2>I'm Marcelo Soares</h2>
 
-I'm a Full Stack Developer and I'm from Rio de Janeiro / Brazil (🇧🇷).
+I'm a Full Stack and Mobile Developer.
+I'm from Rio de Janeiro / Brazil (🇧🇷).
 
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mamsoares/)](https://www.linkedin.com/in/mamsoares/)
 [![Rocketseat Badge](https://img.shields.io/badge/-Marcelo%20Soares-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/marcelo-soares)](https://app.rocketseat.com.br/me/marcelo-soares)
 
-<!--
+
 [![Gmail Badge](https://img.shields.io/badge/-mamsoares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mamsoares@gmail.com)](mailto:mamsoares@gmail.com)
  -->
 
----
+##
 
-If I will describe about my stacks i'll talk about:
+If I will describe about my stacks I'll talk about:
 
 <!--ts-->
-
-- ⚡ Developing Web Applications with Ruby on Rails
-- ⚡ Developing Web Applications with PHP
-- ⚡ Developing Web Applications with ReactJs / NextJs
-- ⚡ Developing Mobile Applications with React Native
-- ⚡ Developing Mobile Applications with Ionic
-- ⚡ Developing API Rest with Node JS
-- ⚡ Developing API Rest with PHP / Laravel
-- ⚡ Developing API Rest with Ruby on Rails
+<p>
+ ⚡ Developing Web Applications with Ruby on Rails<br>
+ ⚡ Developing Web Applications with PHP<br>
+ ⚡ Developing Web Applications with ReactJs / NextJs<br>
+ ⚡ Developing Mobile Applications with React Native<br>
+ ⚡ Developing Mobile Applications with Ionic<br>
+ ⚡ Developing API Rest with Node JS<br>
+ ⚡ Developing API Rest with PHP / Laravel<br>
+ ⚡ Developing API Rest with Ruby on Rails<br><br><br>
+</p> 
 
 ## Frontend & Design
 
@@ -100,9 +144,12 @@ If I will describe about my stacks i'll talk about:
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  
-   <img width="400px" align="left" alt="1" src="https://github-readme-stats-mamsoares.vercel.app/api?username=mamsoares&show_icons=true&theme=dracula&count_private=true" />
+   <img width="400px" align="left" alt="1" 
+     src="https://github-readme-stats-mamsoares.vercel.app/api?username=mamsoares&show_icons=true&theme=dracula&count_private=true" />
  
-  <img width="400px" align="left" alt="" src="https://github-readme-stats-mamsoares.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=html,css" />
+  <img width="400px" align="left" alt="" 
+    src="https://github-readme-stats-mamsoares.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=" />
+  
 </div>
 
 <!--
