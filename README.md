@@ -39,6 +39,7 @@
 
 - I'm a Full Stack and Mobile Developer.
 - I live in Rio de Janeiro from Brazil (🇧🇷).
+- I'm open to work with Mobile React Native Project (freelancer)
 
 
 <!-- <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h1> -->
@@ -48,6 +49,7 @@
 
 I'm a Full Stack and Mobile Developer.
 I'm from Rio de Janeiro / Brazil (🇧🇷).
+I'ḿ open to work with Mobile React Native Project (freelancer)
 
 Would you like to find me?
 
@@ -109,6 +111,7 @@ If I will describe about my stacks I'll talk about:
  <img src="https://img.shields.io/badge/node.js%20-%23239120.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/-php-7377ad?&style=for-the-badge&logo=php&logoColor=white"/>
  <img src="https://img.shields.io/badge/ruby%20-8d2220?&style=for-the-badge&logo=ruby&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-dee412?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ## Database
@@ -133,25 +136,54 @@ If I will describe about my stacks I'll talk about:
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
  <!-- <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/-AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
- <!-- <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> -->
- <!-- <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> -->
+ <!--  <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
  <!-- <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
  <!-- <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> -->
 </div>
 
----
+## Statistcs
 
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: center; margin-bottom: 20rem;">  
+
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamsoares&label=Profile%20views&color=0e75b6&style=flat" alt="mamsoares" /> </p> -->
+  <p style="margin-top: 0rem;">
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamsoares" alt="mamsoares" /></a>
+  </p>
+
+</div>
+
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around;">
  
-   <img width="400px" align="left" alt="1" 
+  
+   <img width="450px" align="left" alt="1" 
      src="https://github-readme-stats-mamsoares.vercel.app/api?username=mamsoares&show_icons=true&theme=dracula&count_private=true" />
  
-  <img width="400px" align="left" alt="" 
+  <img width="450px" align="right" alt="" 
     src="https://github-readme-stats-mamsoares.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=" />
+  
+<!--   <img  width="450px" src="https://github-readme-stats.vercel.app/api?username=mamsoares&show_icons=true&hide=&count_private=true&title_color=fe6e96&text_color=ffffff&icon_color=fe6e96&bg_color=1c1917&hide_border=true&show_icons=true&theme=dracula" alt="mamsoares's GitHub stats" /> -->
+  
+  
+  <img  width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=mamsoares&stroke=ffffff&background=1c1917&ring=fe6e96&fire=fe6e96&currStreakNum=ffffff&currStreakLabel=fe6e96&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   
 </div>
 
+
+<!-- ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mamsoares"><img src="https://github-readme-stats.vercel.app/api?username=mamsoares&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=dracula" alt="mamsoares's GitHub stats" /></a>
+
+<a href="http://www.github.com/mamsoares"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mamsoares&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/mamsoares"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mamsoares&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mamsoares" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamsoares&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ -->
+  
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamsoares&theme=dracula)
 
