@@ -157,16 +157,16 @@ If I will describe about my stacks I'll talk about:
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around;">
  
   
-   <img width="450px" align="left" alt="1" 
+   <img width="400px" align="left" alt="1" 
      src="https://github-readme-stats-mamsoares.vercel.app/api?username=mamsoares&show_icons=true&theme=dracula&count_private=true" />
  
-  <img width="450px" align="right" alt="" 
+  <img width="400px" align="right" alt="" 
     src="https://github-readme-stats-mamsoares.vercel.app/api/top-langs/?username=mamsoares&count_private=true&langs_count=15&layout=compact&theme=dracula&hide=" />
   
 <!--   <img  width="450px" src="https://github-readme-stats.vercel.app/api?username=mamsoares&show_icons=true&hide=&count_private=true&title_color=fe6e96&text_color=ffffff&icon_color=fe6e96&bg_color=1c1917&hide_border=true&show_icons=true&theme=dracula" alt="mamsoares's GitHub stats" /> -->
   
   
-  <img  width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=mamsoares&stroke=ffffff&background=1c1917&ring=fe6e96&fire=fe6e96&currStreakNum=ffffff&currStreakLabel=fe6e96&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mamsoares&stroke=ffffff&background=1c1917&ring=fe6e96&fire=fe6e96&currStreakNum=ffffff&currStreakLabel=fe6e96&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   
 </div>
 
