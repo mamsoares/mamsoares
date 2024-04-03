@@ -37,17 +37,16 @@
 
 ## I'm Marcelo Soares
 
-- I'm a Full Stack and Mobile Developer.
-- I live in Rio de Janeiro from Brazil (🇧🇷).
-- I'm open to work with Mobile React Native Project (freelancer)
+- I'm a Full Stack, Mobile Developer and Troubleshooter.
+- I'm a fighter and a coffee addict.
+- I live in Rio de Janeiro / Brazil (🇧🇷).
+- I'm open to working with Mobile React Native Project (freelancer)
 
 
 <!-- <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h1> -->
 
 <!--
 <h2>I'm Marcelo Soares</h2>
-
-Software developer and Troubleshooter. Father, fighter and a coffee addict.
 
 I'm a Full Stack, Mobile Developer and Troubleshooter.
 I'm a fighter and a coffee addict.
