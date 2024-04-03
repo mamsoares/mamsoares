@@ -37,7 +37,7 @@
 
 ## I'm Marcelo Soares
 
-- I'm a Full Stack, Mobile Developer and Troubleshooter.
+- I'm a Full Stack / Mobile Developer and Troubleshooter.
 - I'm a fighter and a coffee addict.
 - I live in Rio de Janeiro / Brazil (🇧🇷).
 - I'm open to working with Mobile React Native Project (freelancer)
