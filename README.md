@@ -114,8 +114,8 @@ If I will describe about my stacks I'll talk about:
  <img src="https://img.shields.io/badge/-php-7377ad?&style=for-the-badge&logo=php&logoColor=white"/>
  <img src="https://img.shields.io/badge/ruby%20-8d2220?&style=for-the-badge&logo=ruby&logoColor=white"/>
  <img src="https://img.shields.io/badge/python-dee412?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
 ## Database
