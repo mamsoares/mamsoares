@@ -153,7 +153,8 @@ If I will describe about my stacks I'll talk about:
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamsoares&label=Profile%20views&color=0e75b6&style=flat" alt="mamsoares" /> </p> -->
   <p style="margin-top: 0rem;">
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamsoares" alt="mamsoares" /></a>
+      <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamsoares" alt="mamsoares" /></a> -->
+    <a href="https://github-profile-trophy.vercel.app/?username=mamsoares&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=mamsoares" alt="mamsoares" /></a>
   </p>
 
 </div>
